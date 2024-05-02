@@ -1,0 +1,10 @@
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\bin\Debug\QuanLyCuaHangGiaDung.exe.config
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\bin\Debug\QuanLyCuaHangGiaDung.exe
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\bin\Debug\QuanLyCuaHangGiaDung.pdb
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.csproj.AssemblyReference.cache
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.csproj.SuggestedBindingRedirects.cache
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.Properties.Resources.resources
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.csproj.GenerateResource.cache
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.csproj.CoreCompileInputs.cache
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.exe
+E:\Documents\TT QTDA\QuanLyCuaHangGiaDung\obj\Debug\QuanLyCuaHangGiaDung.pdb
